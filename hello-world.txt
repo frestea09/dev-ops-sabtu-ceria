@@ -1,7 +1,0 @@
-Name : ilman
-Feature : 
-feature pertama
-feature tiga 
-feature empat
-ini tag duanya
-ini adalah tag tiga
