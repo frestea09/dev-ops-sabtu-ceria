@@ -1,6 +1,4 @@
 hello world
-hello nama saya adalah ilman teguh prasetya.
-Persiapan Latihan 02-01-2026 :
-Feature 02-01-2026 : 
--feature pertama
-- feature dua 
+hello perkenalkan nama saya ilman teguh prasetya
+saya adalah ilman teguh prasetya
+kenalkan saya adalah seorang programmer zaman now
