@@ -1,3 +1,0 @@
-hello perkenalkan nama saya ilman teguh
-Feature :
-feature-satu 
